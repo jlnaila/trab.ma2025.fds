@@ -1,0 +1,61 @@
+h1{
+    color:rgb(149, 211, 135);
+    background-color:rgb(65, 102, 57);
+    font-size:60px; 
+    text-align: center;
+}
+
+p{
+    color:rgb(148, 69, 17); 
+    background-color:rgb(231, 203, 152); 
+    font-size: 25px; 
+    text-align: justify;
+}
+
+#botao {
+    background-color:rgb(148, 69, 17);
+    color:beige;
+    font-size: 20px;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+}
+
+ul{
+    color:rgb(110, 94, 39); 
+    font-size: 25px; 
+    line-height: 1.5;
+}
+
+h2{
+    color:rgb(110, 94, 39); 
+    font-size: 25px; 
+    text-align: center;
+}
+
+.fotosAutorais {
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.tabela{
+    margin: 0 auto;
+    background-color: rgb(231, 194, 148); 
+    text-align: center; 
+    img {
+        height:400px;
+        width: 400px;
+    }
+}
+
+.spotify{
+    color:rgb(148, 69, 17); 
+    font-size: 25px; 
+    text-align: justify;
+}
+
+.spotify:hover{color: rgb(41, 114, 65)}
+
+body {background-color: rgb(242, 220, 150b)}
